@@ -1,0 +1,13 @@
+com\albumApp\albumAppllcation\controller\SingerSongController.class
+com\albumApp\albumAppllcation\controller\SingerController.class
+com\albumApp\albumAppllcation\repository\SingerRepository.class
+com\albumApp\albumAppllcation\ResourceNotFoundException.class
+com\albumApp\albumAppllcation\controller\AlbumController.class
+com\albumApp\albumAppllcation\controller\SongController.class
+com\albumApp\albumAppllcation\model\Album.class
+com\albumApp\albumAppllcation\model\Song.class
+com\albumApp\albumAppllcation\model\Singer$Gender.class
+com\albumApp\albumAppllcation\AlbumApplicationApplication.class
+com\albumApp\albumAppllcation\model\Singer.class
+com\albumApp\albumAppllcation\repository\AlbumRepository.class
+com\albumApp\albumAppllcation\repository\SongRepository.class
